@@ -3,9 +3,6 @@
 ![커버](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=프론트엔드%20도전!&fontSize=50&rotate=-10)
 <!-- https://capsule-render.vercel.app/ -->
 
-<!-- 조회수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgns908%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!-- 인삿말 -->
 ### 👋 안녕하세요, 프론트엔드 개발자를 지망하고 있는 김관훈입니다!
 <!-- https://emojipedia.org/ -->
